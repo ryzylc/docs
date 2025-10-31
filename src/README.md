@@ -3,13 +3,13 @@ home: true
 icon: house
 title: 主页
 heroStyle:
-  min-height: 800px
+  min-height: 600px
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: 欢迎来到大李的算法小屋🏡
+heroText: 欢迎来到大李的算法小屋
 tagline: 下面是几本大李写的书，关于查阅
 actions:
   # - text: 使用指南
