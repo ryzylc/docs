@@ -3,25 +3,28 @@ home: true
 icon: house
 title: 主页
 heroStyle:
-  min-height: 1000px
+  min-height: 800px
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: 项目名称
-tagline: 你可以在这里放置或是整个项目的描述。
+heroText: 欢迎来到大李的算法小屋🏡
+tagline: 下面是几本大李写的书，关于查阅
 actions:
-  - text: 使用指南
-    icon: lightbulb
-    link: ./demo/
-    type: primary
+  # - text: 使用指南
+  #   icon: lightbulb
+  #   link: ./demo/
+  #   type: primary
 
-  - text: 文档
-    link: ./guide/
+  # - text: 文档
+  #   link: ./guide/
 
   - text: 《48课搞定信息学奥赛》
     link: ./gdoi/
+
+  - text: 《图解C++算法》
+    link: ./imgalg/
 
 highlights:
   - header: 易于安装
