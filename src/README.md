@@ -1,7 +1,7 @@
 ---
 home: true
 icon: house
-title: 项目主页
+title: 主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
@@ -17,6 +17,9 @@ actions:
 
   - text: 文档
     link: ./guide/
+
+  - text: 《48课搞定信息学奥赛》
+    link: ./gdoi/
 
 highlights:
   - header: 易于安装
