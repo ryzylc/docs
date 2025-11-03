@@ -4,7 +4,7 @@ icon: house
 title: 主页
 heroStyle:
   min-height: 600px
-heroImage: http://www.bigbigli.com/wp-content/uploads/2025/08/logo.png
+heroImage: ./.vuepress/public/logo.png
 heroImageStyle:
   width: 100px
   height: 100px
@@ -29,7 +29,7 @@ actions:
 
   - text: 《图解C++算法》
     icon: book
-    link: ./imgalg/
+    link: ./imgalgo/
 
 copyright: false
 footer: 版权所有 © 2025-至今 @bigbigli

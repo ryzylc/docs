@@ -5,7 +5,7 @@ export default navbar([
   // "/portfolio",
   // "/demo/",
   "/gdoi/",
-  "/imgagl/",
+  "/imgalgo/",
   {
     text: "指南",
     icon: "lightbulb",
