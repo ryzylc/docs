@@ -4,16 +4,16 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  // hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
   author: {
     name: "李超@bigbigli",
     url: "http://bigbigli.com",
   },
 
-  logo: "http://www.bigbigli.com/wp-content/uploads/2025/08/logo.png",
+  logo: "/logo.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "ryzylc/docs/",
 
   docsDir: "src",
 
@@ -38,9 +38,9 @@ export default hopeTheme({
   },
 
   // 多语言配置
-  // metaLocales: {
-  //   editLink: "编辑此页",
-  // },
+  metaLocales: {
+    editLink: "编辑此页",
+  },
 
   // 如果想要实时查看任何改变，启用它。注: 这对更新性能有很大负面影响
   // hotReload: true,
