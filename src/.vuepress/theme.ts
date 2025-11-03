@@ -5,7 +5,7 @@ import sidebar from "./sidebar.js";
 
 export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
-
+  
   author: {
     name: "李超@bigbigli",
     url: "http://bigbigli.com",
