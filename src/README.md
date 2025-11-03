@@ -4,10 +4,7 @@ icon: house
 title: 主页
 heroStyle:
   min-height: 600px
-heroImage: ./.vuepress/public/logo.png
-heroImageStyle:
-  width: 100px
-  height: 100px
+heroImage: /logo.png
 # bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 # bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 # bgImageStyle:
